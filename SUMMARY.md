@@ -1,5 +1,5 @@
-+   [MIT 18.06 线性代数笔记](README.md)
-+   [第一讲：方程组的几何解释](docs/chapter01.md)
++   [MIT 18.06 Linear Algebra Notes](README.md)
++   [Lecture 1: The Geometry of Linear Equations](docs/chapter01.md)
 +   [第二讲：矩阵消元](docs/chapter02.md)
 +   [第三讲：乘法和逆矩阵](docs/chapter03.md)
 +   [第四讲：$A$ 的 $LU$ 分解](docs/chapter04.md)
