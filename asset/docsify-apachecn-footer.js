@@ -2,7 +2,7 @@
     var footer = [
         '<hr/>', 
         '<div align="center">', 
-        '  <p><a href="https://omarfarukof.github.io/MathaLot/" target="_blank"><font face="KaiTi" size="6" color="red">MathaLot</font></a><p>', 
+        '  <p><a href="https://omarfarukof.github.io/MathaLot/" target="_blank"><font face="KaiTi" size="6" color="#007999">MathaLot</font></a><p>', 
         '  <p><a href="https://github.com/omarfarukof/mit-18.06-linalg-notes-en/" target="_blank">🌐omarfarukof/mit-18.06-linalg-notes-en</a></p>', 
         /*
         '  <p><iframe align="middle" src="# https://ghbtns.com/github-btn.html?user=apachecn&repo=mit-18.06-linalg-notes&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="25px"></iframe>', 
