@@ -1,16 +1,10 @@
-    /*Hide the directory of the head*/
+    /*隐藏头部的目录*/
     #main>ul:nth-child(1) {
         display: none;
     }
 
     #main>ul:nth-child(2) {
         display: none;
-    }
-    /*Define colors*/
-    :root {
-        --dark_moderate_red: #993333
-        --dark_moderate_cyan: #339999
-        
     }
 
     .markdown-section h1 {
