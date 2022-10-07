@@ -1,5 +1,5 @@
 
-# 第九讲：线性相关性、基、维数
+# Lecture 9：Independence, Basis and Dimension
 
 $v_1,\ v_2,\ \cdots,\ v_n$是$m\times n$矩阵$A$的列向量：
 

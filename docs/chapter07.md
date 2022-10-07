@@ -1,5 +1,5 @@
 
-# 第七讲：求解$Ax=0$，主变量，特解
+# Lecture 7：Solving $Ax = 0$: pivot variables, special solutions
 
 举例：$3 \times 4$矩阵
 $

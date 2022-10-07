@@ -1,5 +1,5 @@
 
-# 第三十二讲：基变换和图像压缩
+# 第三十二讲：Change of basis, image compression
 
 ## 图像压缩
 

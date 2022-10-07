@@ -1,5 +1,5 @@
 
-# 第二十讲：克拉默法则、逆矩阵、体积
+# 第二十讲：Cramer's rule, inverse matrix, and volume
 
 本讲主要介绍逆矩阵的应用。
 

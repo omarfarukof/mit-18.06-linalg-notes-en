@@ -1,5 +1,5 @@
 
-# 第三十一讲：线性变换及对应矩阵
+# 第三十一讲：Linear transformations and their matrices
 
 如何判断一个操作是不是线性变换？线性变换需满足以下两个要求：
 

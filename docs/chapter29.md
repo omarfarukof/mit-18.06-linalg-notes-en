@@ -1,5 +1,5 @@
 
-# 第二十九讲：相似矩阵和若尔当形
+# 第二十九讲：Similar matrices and Jordan form
 
 在本讲的开始，先接着上一讲来继续说一说正定矩阵。
 
@@ -35,7 +35,7 @@ $BM^{-1}=\lambda M^{-1}x$可以解读成矩阵$B$与向量$M^{-1}x$之积等于$
 
 * 特征值重复可能会导致特征向量短缺，来看一个例子，设$\lambda_1=\lambda_2=4$，写出具有这种特征值的矩阵中的两个$\begin{bmatrix}4&0\\0&4\end{bmatrix}$，$\begin{bmatrix}4&1\\0&4\end{bmatrix}$。其实，具有这种特征值的矩阵可以分为两族，第一族仅有一个矩阵$\begin{bmatrix}4&0\\0&4\end{bmatrix}$，它只与自己相似（因为$M^{-1}\begin{bmatrix}4&0\\0&4\end{bmatrix}M=4M^{-1}IM=4I=\begin{bmatrix}4&0\\0&4\end{bmatrix}$，所以无论$M$如何取值该对角矩阵都只与自己相似）；另一族就是剩下的诸如$\begin{bmatrix}4&1\\0&4\end{bmatrix}$的矩阵，它们都是相似的。在这个“大家族”中，$\begin{bmatrix}4&1\\0&4\end{bmatrix}$是“最好”的一个矩阵，称为若尔当形。
 
-若尔当形在过去是线性代数的核心知识，但现在不是了（现在是下一讲的奇异值分解），因为它并不容易计算。
+若尔当形在过去是线性代数的核心知识，但现在不是了（现在是下一讲的Singular value decomposition），因为它并不容易计算。
 
 * 继续上面的例子，我们在在出几个这一族的矩阵$\begin{bmatrix}4&1\\0&4\end{bmatrix},\ \begin{bmatrix}5&1\\-1&3\end{bmatrix},\ \begin{bmatrix}4&0\\17&4\end{bmatrix}$，我们总是可以构造出一个满足$trace(A)=8,\ \det A=16$的矩阵，这个矩阵总是在这一个“家族”中。
 

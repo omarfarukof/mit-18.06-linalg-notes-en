@@ -1,5 +1,5 @@
 
-# 第三讲：乘法和逆矩阵
+# Lecture 3：Multiplication and Inverse Matrix
 
 上一讲大概介绍了矩阵乘法和逆矩阵，本讲就来做进一步说明。
 

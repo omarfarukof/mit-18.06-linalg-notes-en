@@ -1,5 +1,5 @@
 
-# 第十一讲：矩阵空间、秩1矩阵和小世界图
+# 第十一讲：Matrix spaces, Rank 1, Small world graphs
 
 ## 矩阵空间
 
@@ -94,7 +94,7 @@ $2 \times 3$矩阵$A=\begin{bmatrix}1&4&5\\2&8&10\end{bmatrix}=\begin{bmatrix}1\
 
 $rank(A)=1$，则对其零空间有$rank(N(A))=n-r=3=dim N(A)$，则$S$的维数是$3$。
 
-顺便看一下$1 \times 4$矩阵$A$的四个基本子空间：
+顺便看一下$1 \times 4$矩阵$A$的The four fundamental subspaces：
 
 行空间：$dim C(A^T)=1$，其中的一组基是$\begin{bmatrix}1\\1\\1\\1\end{bmatrix}$；
 

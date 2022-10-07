@@ -1,5 +1,5 @@
 
-# 第二十八讲：正定矩阵和最小值
+# 第二十八讲：Positive definite matrices and minima
 
 本讲我们会了解如何完整的测试一个矩阵是否正定，测试$x^TAx$是否具有最小值，最后了解正定的几何意义——椭圆（ellipse）和正定性有关，双曲线（hyperbola）与正定无关。另外，本讲涉及的矩阵均为实对称矩阵。
 
@@ -9,7 +9,7 @@
 
 1. 矩阵的所有特征值大于零则矩阵正定：$\lambda_1>0,\ \lambda_2>0$；
 2. 矩阵的所有顺序主子阵（leading principal submatrix）的行列式（即顺序主子式，leading principal minor）大于零则矩阵正定：$a>0,\ ac-b^2>0$；
-3. 矩阵消元后主元均大于零：$a>0,\ \frac{ac-b^2}{a}>0$；
+3. Matrix Elimination后主元均大于零：$a>0,\ \frac{ac-b^2}{a}>0$；
 4. $x^TAx>0$；
 
 大多数情况下使用4来定义正定性，而用前三条来验证正定性。

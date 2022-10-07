@@ -1,5 +1,5 @@
 
-# 第二十六讲：对称矩阵及正定性
+# 第二十六讲：Symmetric matrices and positive definiteness
 
 ## 对称矩阵
 

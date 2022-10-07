@@ -1,5 +1,5 @@
 
-# 第六讲：列空间和零空间
+# Lecture 6：Column space and Null Space
 
 对向量子空间$S$和$T$，有$S \cap T$也是向量子空间。
 

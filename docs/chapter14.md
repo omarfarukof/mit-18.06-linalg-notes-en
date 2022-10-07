@@ -1,7 +1,7 @@
 
-# 第十四讲：正交向量与子空间
+# 第十四讲：Orthogonal vectors and subspaces
 
-在四个基本子空间中，提到对于秩为r的$m \times n$矩阵，其行空间（$dim C(A^T)=r$）与零空间（$dim N(A)=n-r$）同属于$\mathbb{R}^n$空间，其列空间（$dim C(A)=r$）与左零空间（$dim N(A^T)$=m-r）同属于$\mathbb{R}^m$空间。
+在The four fundamental subspaces中，提到对于秩为r的$m \times n$矩阵，其行空间（$dim C(A^T)=r$）与零空间（$dim N(A)=n-r$）同属于$\mathbb{R}^n$空间，其列空间（$dim C(A)=r$）与左零空间（$dim N(A^T)$=m-r）同属于$\mathbb{R}^m$空间。
 
 对于向量$x, y$，当$x^T \cdot y=0$即$x_1y_1+x_2y_x+\cdots+x_ny_n=0$时，有向量$x, y$正交（vector orthogonal）。
 

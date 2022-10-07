@@ -1,5 +1,5 @@
 
-# 第八讲：求解$Ax=b$：可解性和解的结构
+# Lecture 8：Solving $Ax = 0$ : row reduction form R 
 
 举例，同上一讲：$3 \times 4$矩阵
 $

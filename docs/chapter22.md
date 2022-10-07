@@ -1,5 +1,5 @@
 
-# 第二十二讲：对角化和$A$的幂
+# 第二十二讲：Dionalization and powers of $A$
 
 ## 对角化矩阵
 
@@ -20,7 +20,7 @@
 
 两种方法描述的是同一个现象，即对于矩阵幂运算$A^2$，其特征向量不变，而特征值做同样的幂运算。对角矩阵$\Lambda^2=\begin{bmatrix}\lambda_1^2&0&\cdots&0\\0&\lambda_2^2&\cdots&0\\\vdots&\vdots&\ddots&\vdots\\0&0&\cdots&\lambda_n^2\end{bmatrix}$。
 
-特征值和特征向量给我们了一个深入理解矩阵幂运算的方法，$A^k=S\Lambda^kS^{-1}$。
+Eigenvalues and eigenvectors给我们了一个深入理解矩阵幂运算的方法，$A^k=S\Lambda^kS^{-1}$。
 
 再来看一个矩阵幂运算的应用：如果$k\to\infty$，则$A^k\to 0$（趋于稳定）的条件是什么？从$S\Lambda^kS^{-1}$易得，$|\lambda_i|<1$。再次强调，所有运算的前提是矩阵$A$存在$n$个线性无关的特征向量。如果没有$n$个线性无关的特征向量，则矩阵就不能对角化。
 

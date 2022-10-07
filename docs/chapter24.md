@@ -1,5 +1,5 @@
 
-# 第二十四讲：马尔科夫矩阵、傅里叶级数
+# 第二十四讲：Markov matrices, Fourier series
 
 ## 马尔科夫矩阵
 

@@ -1,5 +1,5 @@
 
-# 第四讲：$A$ 的 $LU$ 分解
+# Lecture 4：$LU$ decomposition of $A$
 
 $AB$的逆矩阵：
 $$

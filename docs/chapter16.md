@@ -1,5 +1,5 @@
 
-# 第十六讲：投影矩阵和最小二乘
+# 第十六讲：Projrction matrices and least squares
 
 上一讲中，我们知道了投影矩阵$P=A(A^TA)^{-1}A^T$，$Pb$将会把向量投影在$A$的列空间中。
 

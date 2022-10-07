@@ -1,7 +1,7 @@
 
-# 第十二讲：图和网络
+# 第十二讲：Graphs, Networks, Incidence matrices
 
-## 图和网络
+## Graphs, Networks, Incidence matrices
 
 
 ```python
