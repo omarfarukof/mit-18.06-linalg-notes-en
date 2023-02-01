@@ -1,5 +1,5 @@
 
-# 第二十八讲：Positive definite matrices and minima
+# Lecture 28：Positive definite matrices and minima
 
 本讲我们会了解如何完整的测试一个矩阵是否正定，测试$x^TAx$是否具有最小值，最后了解正定的几何意义——椭圆（ellipse）和正定性有关，双曲线（hyperbola）与正定无关。另外，本讲涉及的矩阵均为实对称矩阵。
 

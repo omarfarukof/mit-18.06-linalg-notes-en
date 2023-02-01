@@ -1,5 +1,5 @@
 
-# 第十讲 The four fundamental subspaces
+# Lecture 10: The four fundamental subspaces
 
 对于$m \times n$矩阵$A$，$rank(A)=r$有：
 

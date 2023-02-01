@@ -1,5 +1,5 @@
 
-# 第十三讲：Quiz 1 review
+# Lecture 13：Quiz 1 review
 
 1. 令$u, v, w$是$\mathbb{R}^7$空间内的非零向量：则$u, v, w$生成的向量空间可能是$1, 2, 3$维的。
 

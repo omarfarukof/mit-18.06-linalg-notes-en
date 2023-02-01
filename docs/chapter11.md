@@ -1,5 +1,5 @@
 
-# 第十一讲：Matrix spaces, Rank 1, Small world graphs
+# Lecture 11：Matrix spaces, Rank 1, Small world graphs
 
 ## 矩阵空间
 

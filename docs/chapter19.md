@@ -1,5 +1,5 @@
 
-# 第十九讲：Determinant formulas and cofactors
+# Lecture 19：Determinant formulas and cofactors
 
 上一讲中，我们从三个简单的性质扩展出了一些很好的推论，本讲将继续使用这三条基本性质：
 

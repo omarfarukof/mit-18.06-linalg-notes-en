@@ -1,5 +1,5 @@
 
-# 第二十二讲：Dionalization and powers of $A$
+# Lecture 22：Dionalization and powers of $A$
 
 ## 对角化矩阵
 

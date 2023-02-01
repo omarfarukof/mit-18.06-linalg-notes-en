@@ -1,5 +1,5 @@
 
-# 第十七讲：Orthogonal matrices and Gram-Schmidt
+# Lecture 17：Orthogonal matrices and Gram-Schmidt
 
 ## 标准正交矩阵
 

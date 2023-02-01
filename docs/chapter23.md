@@ -1,5 +1,5 @@
 
-# 第二十三讲：Differential equations and $e^{At}$
+# Lecture 23：Differential equations and $e^{At}$
 
 ## 微分方程$\frac{\mathrm{d}u}{\mathrm{d}t}=Au$
 

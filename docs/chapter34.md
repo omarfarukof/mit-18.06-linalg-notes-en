@@ -1,5 +1,5 @@
 
-# 第三十四讲：Left and right inverses, pseudoinverse
+# Lecture 34：Left and right inverses, pseudoinverse
 
 前面我们涉及到的逆（inverse）都是指左、右乘均成立的逆矩阵，即$A^{-1}A=I=AA^{-1}$。在这种情况下，$m\times n$矩阵$A$满足$m=n=rank(A)$，也就是满秩方阵。
 

@@ -1,5 +1,5 @@
 
-# 第十八讲：Properties of determinants
+# Lecture 18：Properties of determinants
 
 本讲我们讨论出行列式（determinant）的性质：
 

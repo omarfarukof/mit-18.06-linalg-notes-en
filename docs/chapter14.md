@@ -1,5 +1,5 @@
 
-# 第十四讲：Orthogonal vectors and subspaces
+# Lecture 14：Orthogonal vectors and subspaces
 
 在The four fundamental subspaces中，提到对于秩为r的$m \times n$矩阵，其行空间（$dim C(A^T)=r$）与零空间（$dim N(A)=n-r$）同属于$\mathbb{R}^n$空间，其列空间（$dim C(A)=r$）与左零空间（$dim N(A^T)$=m-r）同属于$\mathbb{R}^m$空间。
 

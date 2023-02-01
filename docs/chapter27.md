@@ -1,5 +1,5 @@
 
-# 第二十七讲：Complex matrices, fast fourier transform
+# Lecture 27：Complex matrices, fast fourier transform
 
 本讲主要介绍复数向量、复数矩阵的相关知识（包括如何做复数向量的点积运算、什么是复数对称矩阵等），以及傅里叶矩阵（最重要的复数矩阵）和快速傅里叶变换。
 

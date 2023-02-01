@@ -1,5 +1,5 @@
 
-# 第三十五讲：Final review
+# Lecture 35：Final review
 
 依然是从以往的试题入手复习知识点。
 

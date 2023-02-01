@@ -1,5 +1,5 @@
 
-# 第二十九讲：Similar matrices and Jordan form
+# Lecture 29：Similar matrices and Jordan form
 
 在本讲的开始，先接着上一讲来继续说一说正定矩阵。
 

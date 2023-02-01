@@ -1,5 +1,5 @@
 
-# 第二十四讲：Markov matrices, Fourier series
+# Lecture 24：Markov matrices, Fourier series
 
 ## 马尔科夫矩阵
 

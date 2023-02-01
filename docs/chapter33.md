@@ -1,5 +1,5 @@
 
-# 第三十三讲：Quiz 3 review
+# Lecture 33：Quiz 3 review
 
 在上一次复习中，我们已经涉及了求特征值与特征向量（通过解方程$\det(A-\lambda I)=0$得出$\lambda$，再将$\lambda$带入$A-\lambda I$求其零空间得到$x$）。
 

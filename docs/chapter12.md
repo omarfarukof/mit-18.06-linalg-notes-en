@@ -1,5 +1,5 @@
 
-# 第十二讲：Graphs, Networks, Incidence matrices
+# Lecture 12：Graphs, Networks, Incidence matrices
 
 ## Graphs, Networks, Incidence matrices
 
